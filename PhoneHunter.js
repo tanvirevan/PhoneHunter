@@ -41,7 +41,6 @@ const displayPhones = phones =>
 
                `;
             phoneContainer.appendChild(phonediv);
-            console.log(phone.slug);
 
          });
       // stop lodder
